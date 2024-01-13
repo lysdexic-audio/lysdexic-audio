@@ -2,6 +2,10 @@
 
 I make sound and interaction design & composition tools. MaxMSP, C++, JS, Python etc.
 
+For the last few years I've been full-time as a Senior C++ Audio Software Engineer at [Aimi.fm](https://www.aimi.fm/) - which takes most of my time. I continue to create and update repos here from time to time, please create issues for bug reports and feature requests.
+
+🏢 Primary / work account: https://github.com/jcurtis-cc
+
 ---
 
 ### Google Mediapipe projects
